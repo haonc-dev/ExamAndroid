@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nguyenchihao</string>
+    <string-array name="country_arrays">
+        <item>Gripe</item>
+        <item>Other</item>
+    </string-array>
+</resources>
